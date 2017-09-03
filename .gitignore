@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# All data file
+data/mnist/
+data/
+data/celebra.zip
+data/img_align_celeba/
